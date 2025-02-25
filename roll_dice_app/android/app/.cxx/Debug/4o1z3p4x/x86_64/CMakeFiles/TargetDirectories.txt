@@ -1,0 +1,2 @@
+E:/Flutter-and-Dart--2025-Guide-Projects/roll_dice_app/android/app/.cxx/Debug/4o1z3p4x/x86_64/CMakeFiles/edit_cache.dir
+E:/Flutter-and-Dart--2025-Guide-Projects/roll_dice_app/android/app/.cxx/Debug/4o1z3p4x/x86_64/CMakeFiles/rebuild_cache.dir
